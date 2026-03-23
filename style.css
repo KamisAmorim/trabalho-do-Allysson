@@ -1,0 +1,17 @@
+body{
+    font-family: Arial, sans-serif;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+@media (max-width: 600px) {
+    img, .Logotipo{
+        width: 50%;
+    }
+    img, .Cod{
+        width: 100%;
+    }
+
+    video{
+        width: 100%;
+    }
+}
